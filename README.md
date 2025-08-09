@@ -16,7 +16,7 @@
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/Yasien99/Img-Filter.git
+$ git clone https://github.com/KareemYaseen/Img-Filter.git
 ```
 2. **_Navigate to repository directory_**
 ```sh
